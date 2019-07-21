@@ -36,6 +36,13 @@
         "enabled": true,
         "host": "0.0.0.0",
         "port": 80,
+        
+        "sslenabled": true,
+        "sslhost": "0.0.0.0",
+        "sslport": 443,
+        "sslcert": "",
+        "sslkey": "",
+
         "stratumHost": "cryppit.com",
         "stats": {
             "updateInterval": 60,
