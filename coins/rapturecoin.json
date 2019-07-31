@@ -1,7 +1,0 @@
-{
-    "name": "Rapturecoin",
-    "symbol": "RAP",
-    "algorithm": "neoscrypt"
-//    "peerMagic": "fbc0b6db",
-//    "peerMagicTestnet": "fdd2c8f1"
-}
